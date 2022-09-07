@@ -11,3 +11,8 @@ DAO (Data Access Object) :  데이터베이스의 데이터를 조회하거나 �
 데이터 베이스의 데이터 클래스
 DTO(Data Transfer Object) : getter 와 setter 모두 존재
 VO(Value Object) : getter 만 
+
+
+#DB
+Oracle사용
+SQL Developer을 사용하여 로컬네트워크가 아닌 상태로 연결
